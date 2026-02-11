@@ -70,9 +70,8 @@ const Hero = () => {
               transition={{ delay: 0.3 }}
               className="font-display text-4xl md:text-5xl lg:text-6xl font-bold text-primary-foreground mb-4 leading-tight"
             >
-              Mohammad Jahed
+              Jahed Hossain
               <br />
-              Hossain{' '}
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-teal to-cyan">
                 Nobel
               </span>
@@ -168,7 +167,7 @@ const Hero = () => {
               >
                 <img
                   src={profileImage}
-                  alt="Mohammad Jahed Hossain Nobel"
+                  alt="Jahed Hossain Nobel"
                   className="w-full h-full object-cover object-top"
                 />
               </motion.div>

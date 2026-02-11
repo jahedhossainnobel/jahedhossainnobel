@@ -56,7 +56,7 @@ const Navigation = () => {
               whileHover={{ scale: 1.02 }}
             >
               <span className={isScrolled ? 'text-foreground' : 'text-primary-foreground'}>
-                Nobel
+                Jahed Hossain Nobel
               </span>
               <span className="text-teal">.</span>
             </motion.a>

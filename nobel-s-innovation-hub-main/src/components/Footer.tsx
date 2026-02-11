@@ -29,7 +29,7 @@ const Footer = () => {
           {/* Logo & Copyright */}
           <div className="text-center md:text-left">
             <a href="#" className="font-display font-bold text-2xl inline-block mb-2">
-              Nobel<span className="text-teal">.</span>
+              Jahed Hossain Nobel<span className="text-teal">.</span>
             </a>
             <p className="text-primary-foreground/70 text-sm">
               Engineer • Researcher • Innovator
@@ -63,10 +63,7 @@ const Footer = () => {
         <div className="border-t border-primary-foreground/10 mt-8 pt-8">
           <div className="flex flex-col sm:flex-row items-center justify-between gap-4 text-sm text-primary-foreground/60">
             <p>
-              © {currentYear} Mohammad Jahed Hossain Nobel. All rights reserved.
-            </p>
-            <p className="flex items-center gap-1">
-              Made with <Heart className="w-4 h-4 text-teal fill-teal" /> in Bangladesh & China
+              © {currentYear} Jahed Hossain Nobel. All rights reserved.
             </p>
           </div>
         </div>
